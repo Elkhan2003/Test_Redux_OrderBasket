@@ -1,0 +1,18 @@
+.orderContainer {
+    display: flex;
+    justify-content: space-between;
+}
+
+.menuContainer {
+    width: 50%;
+    max-width: 500px;
+}
+
+.basketContainer {
+    width: 50%;
+    max-width: 500px;
+}
+
+.li_V1 {
+    cursor: pointer;
+}
